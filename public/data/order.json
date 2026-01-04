@@ -1,0 +1,409 @@
+{
+	"code": 200,
+	"msg": "查询列表成功！",
+	"data": {
+		"total": 26,
+		"rows": [
+			{
+				"orderNo": "JY20241123175709140",
+				"ordreTime": "2024-11-23 17:57:09",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": "209",
+						"fileName": "setting - 副本.xlsx",
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": "207",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": "206",
+						"fileName": "setting - 副本.xlsx",
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": "208",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "7",
+				"isSingle": "2",
+				"panelWay": "1x1",
+				"estimatedAmount": "2175.3666",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "56"
+			},
+			{
+				"orderNo": "JY20241123143506999",
+				"ordreTime": "2024-11-23 14:35:07",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": "198",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": "199",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": "200",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": "201",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "1",
+				"isSingle": "1",
+				"panelWay": "1x1",
+				"estimatedAmount": "1802.9333",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "54"
+			},
+			{
+				"orderNo": "JY20241123143500311",
+				"ordreTime": "2024-11-23 14:35:00",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "1",
+				"isSingle": "1",
+				"panelWay": "1x1",
+				"estimatedAmount": "1802.9333",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "53"
+			},
+			{
+				"orderNo": "JY20241123143429561",
+				"ordreTime": "2024-11-23 14:34:30",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": "191",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": "192",
+						"fileName": "setting - 副本.xlsx",
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": "193",
+						"fileName": "setting - 副本.xlsx",
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": "194",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "1",
+				"isSingle": "1",
+				"panelWay": "1x3",
+				"estimatedAmount": "1807.8000",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "52"
+			},
+			{
+				"orderNo": "JY20241122160112908",
+				"ordreTime": "2024-11-22 16:01:12",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "1",
+				"isSingle": "1",
+				"panelWay": "1x3",
+				"estimatedAmount": "1800.0000",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "43"
+			},
+			{
+				"orderNo": "JY20241121113002058",
+				"ordreTime": "2024-11-21 11:30:02",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": "187",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": "188",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": "189",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": "190",
+						"fileName": "柔性制造订单流程及系统说明 - 副本.xlsx",
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "1",
+				"isSingle": "1",
+				"panelWay": "1x1",
+				"estimatedAmount": "1800.0000",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "42"
+			},
+			{
+				"orderNo": "JY20241101101027945",
+				"ordreTime": "2024-11-01 10:10:28",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "45",
+				"isSingle": "1",
+				"panelWay": "54x45",
+				"estimatedAmount": "-216.0000",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "40"
+			},
+			{
+				"orderNo": "JY20241029133945539",
+				"ordreTime": "2024-10-29 13:39:45",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "12",
+				"isSingle": "1",
+				"panelWay": "21x21",
+				"estimatedAmount": "1988.8980",
+				"actualAmount": null,
+				"orderStatus": "0",
+				"userId": "110",
+				"orderId": "39"
+			},
+			{
+				"orderNo": "JY20241029133855724",
+				"ordreTime": "2024-10-29 13:38:55",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "123",
+				"isSingle": "1",
+				"panelWay": "21x21",
+				"estimatedAmount": "4411.8435",
+				"actualAmount": null,
+				"orderStatus": "4",
+				"userId": "110",
+				"orderId": "38"
+			},
+			{
+				"orderNo": "JY20241029133740890",
+				"ordreTime": "2024-10-29 13:37:40",
+				"ordreStartTime": null,
+				"ordreEndTime": null,
+				"fileList": [
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "Gerber文件",
+						"fileTypeId": "1"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "钢网文件",
+						"fileTypeId": "2"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "BOM清单",
+						"fileTypeId": "3"
+					},
+					{
+						"id": null,
+						"fileName": null,
+						"filetitle": "坐标文件",
+						"fileTypeId": "4"
+					}
+				],
+				"productConut": "135",
+				"isSingle": "2",
+				"panelWay": "99x100",
+				"estimatedAmount": "10427635.5825",
+				"actualAmount": null,
+				"orderStatus": "4",
+				"userId": "110",
+				"orderId": "37"
+			}
+		]
+	}
+}

@@ -1,0 +1,75 @@
+@mixin w($size) {
+  .w-#{$size} {
+    width: $size;
+  }
+}
+
+@mixin h($size) {
+  .h-#{$size} {
+    height: $size;
+  }
+}
+
+@mixin m($type, $size) {
+  @if $type == t {
+    .m#{$type}-#{$size} {
+      margin-top: #{$size}px;
+    }
+  }
+  @if $type == b {
+    .m#{$type}-#{$size} {
+      margin-bottom: #{$size}px;
+    }
+  }
+  @if $type == l {
+    .m#{$type}-#{$size} {
+      margin-left: #{$size}px;
+    }
+  }
+  @if $type == r {
+    .m#{$type}-#{$size} {
+      margin-right: #{$size}px;
+    }
+  }
+}
+
+@mixin p($type, $size) {
+  @if $type == t {
+    .p#{$type}-#{$size} {
+      padding-top: #{$size}px;
+    }
+  }
+  @if $type == b {
+    .p#{$type}-#{$size} {
+      padding-bottom: #{$size}px;
+    }
+  }
+  @if $type == l {
+    .p#{$type}-#{$size} {
+      padding-left: #{$size}px;
+    }
+  }
+  @if $type == r {
+    .p#{$type}-#{$size} {
+      padding-right: #{$size}px;
+    }
+  }
+}
+
+@mixin fonts($size, $text, $weight) {
+  font-size: #{$size}px;
+  color: $text;
+  font-weight: $weight;
+}
+
+@mixin colors($text, $background, $border) {
+  color: $text;
+  background-color: $background !important;
+  border-color: $border;
+}
+
+@mixin flexbox($content, $align) {
+  display: flex;
+  justify-content: $content;
+  align-items: $align;
+}

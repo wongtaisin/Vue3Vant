@@ -1,0 +1,139 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4742593 */
+  src: url('iconfont.woff2?t=1733962345596') format('woff2'),
+       url('iconfont.woff?t=1733962345596') format('woff'),
+       url('iconfont.ttf?t=1733962345596') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mima1:before {
+  content: "\e60e";
+}
+
+.icon-anquan:before {
+  content: "\faeb";
+}
+
+.icon-zhanghaoguanli-zhanghaoguanli:before {
+  content: "\e61b";
+}
+
+.icon-detail:before {
+  content: "\e60b";
+}
+
+.icon-shanchu:before {
+  content: "\e609";
+}
+
+.icon-caogao1:before {
+  content: "\e608";
+}
+
+.icon-dingdan:before {
+  content: "\e605";
+}
+
+.icon-caogao:before {
+  content: "\e653";
+}
+
+.icon-xiugai:before {
+  content: "\e8cf";
+}
+
+.icon-sousuo:before {
+  content: "\e60a";
+}
+
+.icon-routing-purple:before {
+  content: "\e602";
+}
+
+.icon-routing-purple-copy:before {
+  content: "\e603";
+}
+
+.icon-routing-orange:before {
+  content: "\e604";
+}
+
+.icon-chajian:before {
+  content: "\e6df";
+}
+
+.icon-box-parcel-package-delivery-pack-office-facd:before {
+  content: "\e778";
+}
+
+.icon-kuaidi:before {
+  content: "\e606";
+}
+
+.icon-jibenxinxi1:before {
+  content: "\e616";
+}
+
+.icon-kuaidichaxun:before {
+  content: "\e61a";
+}
+
+.icon-qitachajianqu:before {
+  content: "\e60d";
+}
+
+.icon-xiaoguochajianqu:before {
+  content: "\e617";
+}
+
+.icon-shangchuanwenjian:before {
+  content: "\f5a2";
+}
+
+.icon-yangbenxinxidanjibenxinxi:before {
+  content: "\e600";
+}
+
+.icon-jibenxinxi2:before {
+  content: "\e66c";
+}
+
+.icon-routing-red:before {
+  content: "\e601";
+}
+
+.icon-zhizaogongyiluxian:before {
+  content: "\e607";
+}
+
+.icon-MESpingtaitubiaoku-_chanpinbaozhuangleixing:before {
+  content: "\e6ac";
+}
+
+.icon-baozhuangleixing:before {
+  content: "\e745";
+}
+
+.icon-shangchuan:before {
+  content: "\e68c";
+}
+
+.icon-dingdanliebiao:before {
+  content: "\e615";
+}
+
+.icon-ERP_xiadan:before {
+  content: "\e648";
+}
+
+.icon-jibenxinxi:before {
+  content: "\e67c";
+}
+

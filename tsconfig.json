@@ -1,0 +1,17 @@
+{
+  // files数组用于明确指定需要编译的文件
+  // 如果不指定,则根据include/exclude选项来确定编译范围
+  "files": [],
+
+  // 引用其他TypeScript项目配置
+  "references": [
+    {
+      // 引用应用主配置
+      "path": "./tsconfig.app.json"
+    },
+    {
+      // 引用Node环境配置  
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
